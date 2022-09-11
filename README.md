@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ametanishant
+- 👋 Hi, I’m @Nishan
 - 👀 I’m interested in enhancing quality of product
 - 🌱 I’m currently learning awa/docker/k8s
 - 💞️ I’m looking to collaborate on ...
